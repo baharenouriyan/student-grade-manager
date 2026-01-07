@@ -16,7 +16,9 @@ Loops
 Conditionals
 User input
 Basic algorithm design
-:blue_book: توضیحات پروژه (FA)
+
+
+
 این پروژه یک سیستم ساده برای مدیریت نمرات دانش‌آموزان است.
 در این برنامه می‌توانید دانش‌آموز اضافه کنید، همه را نمایش دهید، میانگین نمرات را محاسبه کنید و وضعیت قبولی دانش‌آموز را بررسی کنید.
 این پروژه مناسب یادگیری مفاهیم زیر است:
@@ -29,5 +31,4 @@ Author
 Bahare Nouriyan
 Python Developer | AI & Machine Learning Enthusiast
 
-Bahare Nouriyan
-Python Developer | AI & Machine Learning Enthusiast
+
